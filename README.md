@@ -35,7 +35,19 @@ project activity can operate in the frequency of 50 Hz (± 3%) and in the voltag
 The average life time of the generator is around 35 years as per the equipment supplier specification.
 
 The project activity has been commissioned for commercial operation as on 17/10/2014.
+____________
+PRIOR HISTORY
+____________
+CDM registered https://cdm.unfccc.int/Projects/DB/RWTUV1323729355.13/view
+_____________
+Project 5504 : 2 MW Kalm Small Hydro Electric Project in Himachal Pradesh, India
+
+CDM Registration Date: 13 Dec 11 (Date of registration action 02 Mar 12)
+
+No records of issuance. No double counting risk
 ________________________
+UCR
+
 ISSUANCE DATE: 10/01/2025
 
 QTY: 57077 CoUs

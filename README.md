@@ -13,6 +13,11 @@ Generators having individual capacity1000kW with aggregated installed capacity o
 -Chamba, Himachal Pradesh state of India. This project activity is also called as Kalm small hydroelectric
 power (SHEP) project.
 
+Village Nalli, Dist.: Chamba, State: Himachal 
+Pradesh, India.
+
+Coordinates: 32o25’59.537N, 76o01’49.518E
+___________
 Kalm SHEP project isa run-of-river project located in Chamba District in the state of Himachal Pradesh.
 It utilizes flow of Kalm nallah perennial tributary of Beas River which in turn is a tributary of Ravi River
 for generation of hydro power. The project envisages a generation capacity of 2.00MW of power by
@@ -31,4 +36,11 @@ The average life time of the generator is around 35 years as per the equipment s
 
 The project activity has been commissioned for commercial operation as on 17/10/2014.
 ________________________
+ISSUANCE DATE: 10/01/2025
+
+QTY: 57077 CoUs
+
+MP-01 Period: 17/10/2014-31/12/2023
+_______________
+
 

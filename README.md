@@ -42,5 +42,66 @@ QTY: 57077 CoUs
 
 MP-01 Period: 17/10/2014-31/12/2023
 _______________
+Serial Number: 0001-000001-000973-UCR-CoU-IN-064-17102014-31122014
+
+Vintage Year: 2014
+
+Quantity: 973
+__________
+Serial Number: 0001-000974-008398-UCR-CoU-IN-064-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 7425
+_____________
+Serial Number: 0001-008399-013438-UCR-CoU-IN-064-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 5040
+_____________
+Serial Number: 0001-013439-020269-UCR-CoU-IN-064-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 6831
+__________
+Serial Number: 0001-020270-024940-UCR-CoU-IN-064-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 4671
+____________
+Serial Number: 0001-024941-030393-UCR-CoU-IN-064-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 5453
+_______________
+Serial Number: 0001-030394-038566-UCR-CoU-IN-064-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 8173
+____________
+Serial Number: 0001-038567-044646-UCR-CoU-IN-064-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 6080
+____________
+Serial Number: 0001-044647-049689-UCR-CoU-IN-064-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 5043
+_____________
+Serial Number: 0001-049690-057077-UCR-CoU-IN-064-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 7388
+_______________
+
 
 
